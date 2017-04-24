@@ -1,2 +1,0 @@
-# pidgeonLP
-Pidgeon Landing Page
