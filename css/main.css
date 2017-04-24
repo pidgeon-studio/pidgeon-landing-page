@@ -27,6 +27,7 @@
 }
 
 h1 {
+  font-family: 'Open Sans', sans-serif;
   text-align:center;
   animation: heartbeat 1s infinite;
 }
